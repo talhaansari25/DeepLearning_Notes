@@ -1,0 +1,6 @@
+Age,Salary,Subscription_Length_Months,Churn
+25,50000,12,0
+34,60000,24,1
+45,75000,36,0
+23,40000,6,1
+41,80000,48,0
